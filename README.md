@@ -1,4 +1,4 @@
-# winfetchit - A YouTube audio/video fetching service for Windows.
+# winfetchit - YouTube audio/video fetching service for Windows
 
 ## Project Structure
 
