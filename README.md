@@ -8,9 +8,9 @@
     |   |-- pafy/
     |-- dat/
     |-- src/
-    |   |-- download-service/
-    |   |-- convert-service/
-    |   |-- gui/
+    |   |-- download_service/
+    |   |-- converter_service/
+    |   |-- UI/
     |-- README.md
 
 
