@@ -6,7 +6,6 @@
     |-- bin/
     |-- lib/
     |   |-- pafy/
-    |
     |-- dat/
     |-- src/
     |   |-- download-service/
