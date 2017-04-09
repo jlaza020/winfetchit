@@ -2,15 +2,11 @@
 
 ## Project Structure
 
-    winfetchit/
-    |-- bin/
-    |-- lib/
-    |   |-- pafy/
-    |-- dat/
-    |-- src/
-    |   |-- download_service/
-    |   |-- converter_service/
-    |   |-- UI/
-    |-- README.md
+    winfetchit
+        - bin
+        - build
+        - lib
+            -pafy
+        - src
 
 
