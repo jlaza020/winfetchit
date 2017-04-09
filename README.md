@@ -9,7 +9,7 @@
             -pafy
         - src
             - media_converter
-            - yt_downloader
+            - fetcher
             - gui
                 - MainForm.cs
 
